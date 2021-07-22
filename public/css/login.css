@@ -1,0 +1,34 @@
+#login {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+#login h1{
+  font-family: 'Kalam', cursive;
+}
+#login .form-signin {
+  width: 100%;
+  max-width: 30rem;
+  padding: 15px;
+  margin: auto;
+}
+
+#login .form-signin .checkbox {
+  font-weight: 400;
+}
+
+#login .form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+#login .form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+#login .form-group .fa {
+  top: 10;
+}
